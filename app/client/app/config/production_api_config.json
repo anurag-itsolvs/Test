@@ -1,0 +1,14 @@
+{
+ 	"apiHost": "http://iface-test.com/",
+
+   "userApi":
+               {
+                 "get_users_api_path" : "getUsers",
+                 "get_users_api_method" : "GET",
+
+                 "insert_users_api_path" : "insertData",
+                 "insert_users_api_method" : "POST"
+               }
+
+
+}

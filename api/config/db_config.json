@@ -1,0 +1,17 @@
+ {
+	"development":
+					{
+						"host_name" : "localhost",
+						"database_name" : "iface_test",
+					    "user_name" : "root",
+					    "password" : ""
+				    },
+	"production":
+					{
+						"host_name" : "server-host-name",
+						"database_name" : "iface_test",
+					    "user_name" : "root",
+					    "password" : "admin#123"
+				    }			    
+}
+
